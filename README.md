@@ -1,7 +1,7 @@
 # Annuaire Sites Publics Senegal
 [L'annuaire des sites internets publics du Sénégal](/data/annuaire.csv)
 
-Liste non exhaustive d'adresse des sites internets du Sénégal, merci d'apporter votre contribution.
+Liste non exhaustive d'adresse des sites internets publics du Sénégal, merci d'apporter votre contribution.
 
 ## Données
 Organisme Régional de Coordination des Activités de Vacances (ORCAV)  
