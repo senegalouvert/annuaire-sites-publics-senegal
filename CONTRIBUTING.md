@@ -54,4 +54,4 @@ Nous vous invitons à poster vos suggestions [**ICI**](https://github.com/senega
 
 ### Contactez-nous
 
-Si vous avez la moindre question, n'hésitez pas à nous contacter contribution@senegalouvert.org.
+Si vous avez la moindre question, n'hésitez pas à nous contacter contribution@senegalouvert.io.
