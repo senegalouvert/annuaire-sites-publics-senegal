@@ -1,6 +1,7 @@
 nom,url,type
 Accompagnement psychologique et scolaire Information et conseil en Orientation Scolaire et Professionnelle, http://www.caosp-pikine.gouv.sn/,Portail
 ADIE e-Working,conference.sec.gouv.sn,Plate-forme
+Agenge de Developpement Local,https://www.adl.sn,Agence
 Agence de gestion du Patrimoine Bâti de l'Etat,http://www.patrimoinebati.gouv.sn/,Agence
 Agence De l'Informatique de l'Etat,http://www.adie.sn/,Agence
 Agence de la Construction des Bâtiments et Edifices publics,http://www.acbep.gouv.sn,Agence
@@ -9,6 +10,8 @@ Agence de presse sénégalaise,http://www.aps.sn/,Agence
 Agence National des Affaires Maritimes,http://www.anam.gouv.sn/,Agence
 Agence Nationale de Statistique et de la Démographie,http://www.ansd.sn,Agence
 Agence Nationale pour l'Aménagement du Territoire,http://www.anat.sn/,Agence
+Agence de Sécurité de Proximité,http://www.asp.gouv.sn/,Agence
+Air Sénégal,https://flyairsenegal.com/,Service
 Annuaire Téléphonique des Agents de l'Etat,annuaire.sec.gouv.sn,Plate-forme
 Association des Professeurs Africains de Mathématiques,http://www.apams.gouv.sn/,Portail
 Autorité de Radioprotection et de Sûreté nucléaire,http://www.arsn.sn/,Administration
@@ -30,12 +33,14 @@ Centre des Hautes Études de Défense et de Sécurité,cheds.gouv.sn,Administrat
 Centre Hospitalier Universitaire de Fann,http://www.chnu-fann.com/,Administration
 Centre National d'Information et de la Documentation,http://www.cnid.gouv.sn/,Administration
 Centre national de Documentation scientifique et technique,http://www.cndst.gouv.sn/,Administration
-Comité Interministériel de Lutte contre la Drogue,www.cild.gouv.sn,Portail
+Comité Interministériel de Lutte contre la Drogue,http://www.cild.gouv.sn/,Portail
 Comité National d'Éthique pour la Recherche en Santé,www.cners.gouv.sn,Administration
 Commission de Protection des Données Personnelles,http://www.cdp.sn/,Administration
 CONFPOL,portailconfpol.sec.gouv.sn,Plate-forme
+Conseil Constitutionnel,https://conseilconstitutionnel.sn/,Administration
 Conseil Economique Social et Environnemental,http://www.cesesenegal.sn/,Administration
 Conseil national de concertation et de coopération des ruraux,http://www.cncr.org/,Administration
+Cour des Comptes,http://www.courdescomptes.sn/,Administration
 Covid19 Sénégal,covid19.gouv.sn,Portail
 Déclaration de taxe sur la valeur ajoutée en ligne,https://www.dgid.sn/etax/,Service
 Délégation Générale à l'Entreprenariat Rapide des femmes et des jeunes,intder.sec.gouv.sn,Plate-forme
@@ -57,6 +62,7 @@ Direction des Archives du Sénégal,http://www.archivesdusenegal.gouv.sn/,Admini
 Direction des Assurances,http://www.dna.finances.gouv.sn/,Administration
 Direction des Eaux - Forêts - Chasses et de la Conservation des sols,http://www.eaux-forets.sn/,Administration
 Direction des Pêches maritimes,dpm.gouv.sn,Administration
+Direction des Relations avec les Institutions,http://www.dri.gouv.sn,Administration
 Direction du commerce intérieur,http://WWW.dci-sn.sn/,Administration
 Direction du projet des Volontaires de l'éducation,http://www.volontaires.sn/,Administration
 Direction du Traitement Automatique de l'Information,www.dtai.finances.gouv.sn,Administration
@@ -76,6 +82,7 @@ Femmes et Technologies de l’Information et de la Communication,http://www.femm
 Fonds de Financement de la Formation Professionnelle et Technique,http://www.3fpt.sn/,Portail
 Formulaire en Ligne Campagne de Vaccination Covid-19,vaccincovid19.sec.gouv.sn,Service
 Gesperequation,gesperequation.gouv.sn,Plate-forme
+Gendarmerie Nationale,https://www.gendarmerie.sn/,Administration
 Gouvernement du Sénégal,https://www.sec.gouv.sn/,État
 Groupe Consultatif pour le Senegal 2018,www.gcsenegal.gouv.sn,Portail
 Haute Autorité chargée de la Coordination de la Sécurité maritime de la Sûreté maritime et de la Protection de l’Environnement marin,http://www.hassmar.gouv.sn/,Administration
@@ -89,6 +96,7 @@ Journal officiel,http://www.jo.gouv.sn/,Service
 LE MOBILE AU SERVICE DE LA LUTTE CONTRE LE DIABETE,http://www.mdiabete.sante.gouv.sn/,Portail
 LE MOBILE AU SERVICE DE LA LUTTE CONTRE LE DIABETE,http://mdiabete.gouv.sn/,Portail
 Le projet de renforcement des capacités de responsabilité financière et de transparence,http://www.precaref.gouv.sn/,Portail
+Le Soleil,http://www.lesoleil.sn/,Service
 Mail Gouv,mail.gouv.sn,Plate-forme
 Maison de la presse,http://www.maisondelapresse.gouv.sn/,Administration
 Maison du Citoyen,maisonducitoyen.gouv.sn,Portail
@@ -155,6 +163,7 @@ Portail Géo-Répertoire,http://www.georepertoire.gouv.sn/,Portail
 Portail Mirador - Eleve-Maitre,http://www.mirador.education.gouv.sn/,Portail
 Poste,http://www.laposte.sn/,Administration
 Présidence de la République du Sénégal,http://www.presidence.sn/,État
+Primature,https://www.sec.gouv.sn/,Gouvernement
 Programme d'appui aux Initiatives de Solidarité pour le Développement,http://www.codev.gouv.sn/,Portail
 Programme d'eau potable et d'assainissement du Milénaire,http://www.pepam.gouv.sn/,Portail
 Programme de mise à niveau des entreprises du Sénégal,bmn.sec.gouv.sn,Plate-forme
@@ -163,25 +172,29 @@ Programme National d'Immatriculation,http://www.bdpni.gouv.sn/,Portail
 Progres,progres.sec.gouv.sn,Plate-forme
 Projet d'Appui aux Politiques Agricoles,http://www.papa.gouv.sn/,Portail
 Promotion des Investissements et Grands Travaux,http://www.investinsenegal.com/,Portail
-Radiodiffusion télévision sénégalaise,http://www.rts.sn/,Administration
+Radiodiffusion télévision sénégalaise,http://www.rts.sn/,Service
 Registre National Unique,sigrnu.sec.gouv.sn,Plate-forme
 Sénégalaise des eaux,http://www.sde.sn/,Administration
+Senelec,http://www.senelec.sn/,Service
 SIGI CMU,sigicmu.sec.gouv.sn,Plate-forme
 Site de l'Asemblée Nnationale,http://www.assemblee-nationale.sn/,Administration
 Smart Sénégal,smartsenegal.gouv.sn,Portail
 Société des pétroles du Sénégal,http://www.petrosen.sn/,Administration
 Société Nationale de Recouvrement,http://www.snr.gouv.sn/,Administration
+Sonatel,https://sonatel.sn/,Service
 Système d'Information de Gestion du CROUS de Bambey,crous-bambey.gouv.sn,Plate-forme
 Système d'Information et de Suivi-Evaluation du PADESS,padess.sec.gouv.sn,Portail
 Système d'Informations sur les Risques au Sénégal,georisques.gouv.sn,Portail
 Systeme de Suivi-Evaluation du PNDL et des ARD,sisepa.gouv.sn,Plate-forme
 système Intégré de Gestion de l'Information Financière,http://sigif.gouv.sn/,Administration
 Télé-Demande d'Actes administratifs,teledac.sec.gouv.sn/,Service
-Université Assane Seck Ziguinchor,http://www.univ-zig.sn/,Administration
+Université Assane Seck de Ziguinchor,http://www.univ-zig.sn/,Administration
 Université Cheikh Anta Diop de Dakar,https://www.ucad.sn/,Administration
-Université de Bambey,http://www.uadb.edu.sn/,Administration
+Université Alioune Diop de Bambey,http://www.uadb.edu.sn/,Administration
 Université de Thiès,https://www.univ-thies.sn/,Administration
 Université Gaston Berger de Saint-Louis,http://www.ugb.sn/,Administration
 Université Virtuelle du Sénégal,http://www.uvs.sn/,Administration
+Université du Sine Saloum El Hadji Ibrahima Niass,http://www.ussein.sn/,Administration
+Université Amadou Mahtar Mbow,http://www.uam.sn/,Administration
 Ville de Rufisque,http://mairiederufisque.org/,Portail
 Visualiseur Sénégal,http://www.vigeosn.gouv.sn,Portail
