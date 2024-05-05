@@ -4,10 +4,9 @@
 Liste non exhaustive d'adresse des sites internets publics du Sénégal, merci d'apporter votre contribution.
 
 ## Données
-Organisme Régional de Coordination des Activités de Vacances (ORCAV)  
-Organisme Départemental de Coordination des Activités de Vacances (ODCAV)  
-Zone  
-Associations Sportives et Culturelles (ASC)
+
+- [L'annuaire des sites internets publics du Sénégal](/data/annuaire.csv)
+- [Sites non n'hébergés au Sénégal](/data/non_senegal.csv)
 
 ### Fichier csv
 
