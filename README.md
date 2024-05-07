@@ -40,7 +40,16 @@ Merci d'avance pour votre contribution à l'annuaire des sites publics sénégal
 
 ## contributeurs
 
-* **===**
+* **Alpha Diop** - [Alphajoop](https://github.com/alphajoop)
+* **Joseph Pierre Gomis** - [Joe-pierre](https://github.com/joe-pierre)
+* **Médoune Siby Georges Baldé** - [MedouneSGB](https://github.com/MedouneSGB)
+* **Mamadou Yacine Diallo** - [Mamadouyacine](https://github.com/mamadouyacine)
+* **Akhmadou** - [0SansNom](https://github.com/0SansNom)
+* **Safietou Deme** - [SafieDeme9](https://github.com/SafieDeme9)
+* **Charles Emmanuel S. Ndiaye** - [ManuSquall](https://github.com/ManuSquall)
+* **Seydou** - [Seydou91](https://github.com/seydou91)
+* **Ousseynou Diop** - [Xarala221](https://github.com/xarala221)
+* **Mamadou Mb. Dione** - [Mbayedione10](https://github.com/mbayedione10)
 
 ## Auteurs
 
