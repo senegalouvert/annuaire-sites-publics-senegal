@@ -53,7 +53,7 @@ Merci d'avance pour votre contribution à l'annuaire des sites publics sénégal
 
 ## Auteurs
 
-* **Mamadou Diagne** - [Genova](https://github.com/genova)
+* **Mamadou Diagne** - [Genova](https://github.com/dofbi)
 
 ## Licence
 
