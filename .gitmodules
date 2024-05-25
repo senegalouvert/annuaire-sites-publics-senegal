@@ -1,0 +1,3 @@
+[submodule "scripts/testAccessibility"]
+	path = scripts/testAccessibility
+	url = https://github.com/dofbi/testAccessibility.git
