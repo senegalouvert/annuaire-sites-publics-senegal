@@ -1,24 +1,41 @@
 url,score,Performance,Accessibility,Best Practices,SEO,nom
 https://crse.sn/,90.5,86,100,87,89,Commission de Regulation du Secteur de l'Energie (CRSE)
+http://www.education.sn/,87.25,83,86,80,100,Ministère de l'Education nationale
 https://www.lacgaa.org/,86.25,56,96,100,93,Lacgaa ucad
 https://www.cild.gouv.sn/,85.5,51,98,93,100,Comité Interministériel de Lutte contre la Drogue
 https://mail.gouv.sn,85,95,81,87,77,Mail Gouv
+http://pgfe.finances.gouv.sn/portal/,84.75,77,97,73,92,Plateforme de Gestion des Financements Extérieurs (PGFE)
+https://www.sec.gouv.sn/,84.75,48,98,100,93,Primature
+http://sigif.gouv.sn/,84,74,91,80,91,système Intégré de Gestion de l'Information Financière
+http://www.uam.sn/,83,100,85,80,67,Université Amadou Mahtar Mbow
 https://aps.sn/,82.5,75,71,93,91,Agence de presse sénégalaise
 https://www.sec.gouv.sn/,82,37,98,100,93,Gouvernement du Sénégal
+https://villedesaintlouis.sn,81.75,99,94,67,67,Ville de Saint-Louis
 https://esolde.sec.gouv.sn/,81.25,77,69,87,92,Bulletins de salaire en ligne
 http://www.dpee.sn,81,46,92,93,93,Direction de la Prévision et des Etudes Economiques
 http://www.dna.finances.gouv.sn/,79,42,94,87,93,Direction des Assurances
 https://www.anpej.sn/,78.75,45,97,80,93,AGENCE NATIONALE POUR LA PROMOTION DE L'EMPLOI DES JEUNES
+http://www.environnement.gouv.sn/,78.75,72,85,67,91,Ministère de l'Environnement et du Développement Durable
+http://www.investinsenegal.com/,78,31,96,87,98,Promotion des Investissements et Grands Travaux
 https://www.dpm.gouv.sn,77.25,47,89,87,86,Direction des Pêches maritimes
 https://maisonducitoyen.gouv.sn,77,41,92,87,88,Maison du Citoyen
 http://www.ena.sn/,76.75,38,89,87,93,Ecole nationale d’Administration
+http://www.diplomatie.gouv.sn/,76.75,42,97,87,81,Ministère des Affaires étrangères et des sénégalais de l'Extérieur
 https://www.sentresor.org,76.25,47,80,87,91,Direction générale de la Comptabilité publique et du Trésor
+https://senegalservices.sn,76.25,29,83,93,100,Sénégal Services
+http://www.ofnac.sn/,76,27,98,87,92,Office National de lutte contre la Fraude et la Corruption
 https://send.adie.sn,76,56,87,87,74,ADIE Send
 http://www.archivesdusenegal.gouv.sn/,75.75,100,68,80,55,Direction des Archives du Sénégal
+http://www.bdpni.gouv.sn/,75.25,60,92,80,69,Programme National d'Immatriculation
 http://www.unefamilleuntoit.gouv.sn/,75,61,86,60,93,Facilité l'accès à la propriété
+http://www.interieur.gouv.sn/,74.75,74,75,67,83,Ministère de l'Intérieur
 https://www.directiondesbourses.sn,73.75,23,96,93,83,DIRECTION DES BOURSES
 https://agencecmu.sn/,73.5,41,88,73,92,Agence de la Couverture Maladie Universelle
+http://www.papa.gouv.sn/,73.5,48,86,67,93,Projet d'Appui aux Politiques Agricoles
+http://www.rts.sn/,73.5,39,84,73,98,Radiodiffusion télévision sénégalaise
 https://covid19.gouv.sn/,73.25,25,89,87,92,Covid19 Sénégal
+http://sigstat.ansd.sn/,73,50,92,73,77,Portail des services sociaux de base
+http://www.officedubac.sn,73,22,93,93,84,Office du baccalauréat Sénégal
 https://www.cena.sn,73,43,86,73,90,Commission électorale nationale autonome (CENA)
 https://amendes.sn,73,37,79,93,83,AMENDES FORFAITAIRES Service de paiement en ligne
 http://www.3fpt.sn/,73,29,91,73,99,Fonds de Financement de la Formation Professionnelle et Technique
@@ -26,11 +43,13 @@ http://dtgc.au-senegal.com/,72.75,97,54,73,67,Direction des Travaux Géographiqu
 https://anat.sn/,72.75,15,94,93,89,Agence Nationale pour l'Aménagement du Territoire
 https://www.cndst.gouv.sn/,72.5,34,91,80,85,Centre national de Documentation scientifique et technique
 http://www.gcsenegal.gouv.sn/,72.5,78,68,67,77,Groupe Consultatif pour le Senegal 2018
+https://www.urbanisme.gouv.sn/,72,25,92,80,91,Ministère de l'urbanisme du logement t de l'hygiène publique
 https://conference2.sec.gouv.sn:8443/,72,24,92,80,92,SENUM e-Working
 http://www.damcp.gouv.sn/,72,56,83,67,82,Direction des Aires Marines Communautaires Protégées
 http://cartenationale.gouv.sn,71.75,56,81,67,83,Carte Nationale
 https://www.acbep.gouv.sn/,71.75,16,95,93,83,Agence de la Construction des Bâtiments et Edifices publics
 https://www.dri.gouv.sn/,71.75,46,85,73,83,Centre d'Informations et de Documentation sur les Institutions et la Gouvernance
+https://www.onfp.sn/,71.75,26,88,80,93,Office National de la Formation Professionnelle (ONFP)
 http://www.apams.gouv.sn/,71.5,47,85,73,81,Association des Professeurs Africains de Mathématiques
 https://www.big.gouv.sn/,71,6,94,87,97,Bureau d'Information Gouvernemental
 https://www.adie.sn/,71,30,91,80,83,Agence De l'Informatique de l'Etat
@@ -44,52 +63,88 @@ https://www.geosenegal.gouv.sn/,70.25,36,76,80,89,Base de données géospatiales
 http://decpc.infoconsul.net/exam,70,25,94,73,88,Direction des ExamensConcours Professionnels et Certifications
 https://asp.gouv.sn/,69.75,48,73,93,65,Agence de Sécurité de Proximité
 http://www.fastef.ucad.sn/,69.75,17,92,80,90,Faculté des sciences et technologies de l’éducation et de la formation
+http://www.petrosen.sn/,69.75,34,79,73,93,Société des pétroles du Sénégal
+https://aibd.sn/,69.75,4,90,93,92,Aéroport International Blaise DIAGNE (AIBD)
+http://www.snhlm.sn/,69.75,15,92,80,92,Société Nationale des Habitations à Loyer Modéré
+http://www.sports.gouv.sn/,69.75,31,93,73,82,Ministère des Sports
+http://www.presidence.sn/,69.25,27,85,73,92,Présidence de la République du Sénégal
+http://www.elevage.gouv.sn/,69,44,76,73,83,Ministère de l’Elevage et des Productions Animales
 https://conseilconstitutionnel.sn/,69,16,81,93,86,Conseil Constitutionnel
 https://www.senegal-emergent.com/,69,20,90,80,86,Bureau Opérationnel du Suivi du Plan Sénégal Emergent
 https://cheds.gouv.sn/,68.75,15,94,80,86,Centre des Hautes Études de Défense et de Sécurité
+http://www.uadb.edu.sn/,68.5,23,88,80,83,Université Alioune Diop de Bambey
+http://www.tourisme.gouv.sn/,68.5,15,86,80,93,Ministère du Tourisme
+http://www.commerce.gouv.sn/,68.25,21,90,80,82,Ministère du Commerce du Secteur informel de la Consommation de la Promotion des produits locaux et des PME
+https://www.adm.sn/,68,16,92,87,77,Agence de Développement Municipal (ADM)
+https://www.investissements.gouv.sn/apix,67.75,44,72,73,82,Agence pour la Promotion des Investissements et des Grands Travaux (APIX)
 http://www.hassmar.gouv.sn/,67.5,48,83,67,72,Haute Autorité chargée de la Coordination de la Sécurité maritime de la Sûreté maritime et de la Protection de l’Environnement marin
 https://esp.sn/,67.5,6,87,87,90,Ecole supérieure polytechnique
 http://www.cnid.gouv.sn/,67.25,44,84,67,74,Centre National d'Information et de la Documentation
 http://www.lesoleil.sn/,67.25,15,89,80,85,Le Soleil
 https://www.caosp-pikine.gouv.sn/,67.25,47,75,73,74,Accompagnement psychologique et scolaire Information et conseil en Orientation Scolaire et Professionnelle
 https://www.cesesenegal.sn/,67.25,17,90,80,82,Conseil Economique Social et Environnemental
+https://villedepikine.sn/,67.25,19,86,80,84,Ville de Pikine
+http://www.energie.gouv.sn/,67.25,39,86,67,77,Ministère du pétrole et des énergies
+http://www.mirador.education.gouv.sn/,67.25,53,68,73,75,Portail Mirador - Eleve-Maitre
 https://www.sapeurspompiers.gouv.sn/,66.5,47,79,67,73,Brigade Nationale des Sapeurs Pompiers
 http://www.grh.sante.gouv.sn,66.75,75,61,73,58,iHRIS gestion des ressources humaines
 https://www.lonase.sn/,66.25,12,91,87,75,Lonase Sénégal
 https://www.anam.gouv.sn/,66.25,49,75,67,74,Agence National des Affaires Maritimes
 http://WWW.dci-sn.sn/,66.25,37,65,67,96,Direction du commerce intérieur
+http://www.agriculture.gouv.sn/,66.25,20,88,87,70,Ministère de l’Agriculture et de l’Equipement rural
+https://senegal.un.org/,66,29,72,80,83,Nations Unies Sénégal
+https://www.unchk.sn/,66,26,88,60,90,Université numérique Cheikh Hamidou KANE(Ex UVS)
+https://dge.sn,66,17,98,73,76,Direction Générale des Elections
 http://www.maisondelapresse.gouv.sn/,65.75,32,85,73,73,Maison de la presse
 https://www.cncr.org/,65.5,25,80,73,84,Conseil national de concertation et de coopération des ruraux
-https://dge.sn,66,17,98,73,76,Direction Générale des Elections
+http://www.investissements.gouv.sn/,65.25,45,75,67,74,Ministère de la Promotion des Investissement des Partenariats et du Développement des Téléservices de l'Etat
 https://cfptsj.sn/,65.25,11,83,93,74,Centre de formation professionnelle et technique Sénégal - Japon
+https://villedepikine.sn/,65,12,84,80,84,Ville de Pikine
 http://www.courdescomptes.sn/,65,33,68,73,86,Cour des Comptes
 http://www.dtai.finances.gouv.sn,64.75,0,96,80,83,Direction du Traitement Automatique de l'Information
 https://entss.sn/,64.5,5,88,80,85,École Nationale des Travailleurs Sociaux Spécialisés
+https://www.secnsa.sn/,64.5,18,74,80,86,Conseil National de Sécurité Alimentaire (CNSA)
+http://www.marchespublics.sn/,64.5,71,65,53,69,Portail des marchés publics du Sénégal
 https://www.imprimerie-nationale.gouv.sn/,64.25,49,81,53,74,Imprimerie Nationale
 https://www.arsn.sn/,64.25,6,87,80,84,Autorité de Radioprotection et de Sûreté nucléaire
 http://www.volontaires.sn/,64.25,30,68,73,86,Direction du projet des Volontaires de l'éducation
 http://www.inspection-batiment.gouv.sn/,64,43,79,60,74,Inspection Générale des Bâtiments
 https://www.cncas.sn/,63.75,26,83,67,79,Caisse nationale de crédit agricole du Sénégal
 http://www.cners.gouv.sn/,63.75,41,71,60,83,Comité National d'Éthique pour la Recherche en Santé
+http://www.forcesarmees.gouv.sn/,63.75,28,77,73,77,Ministère des Forces armées
 https://www.der.sn/,63.5,1,87,80,86,Délégation Générale à l'Entreprenariat Rapide des Femmes et des Jeunes
 http://mdiabete.gouv.sn/,63.5,16,82,73,83,LE MOBILE AU SERVICE DE LA LUTTE CONTRE LE DIABETE
 https://www.dgid.sn/,63.5,15,88,60,91,La Direction générale des Impôts et des Domaines
+http://www.snr.gouv.sn/,63.5,57,75,47,75,Société Nationale de Recouvrement
+https://www.onas.sn/,63.25,15,75,73,90,Office National de l'Assainissement du Sénégal (onas)
+https://www.ucad.sn/,63.25,12,84,80,77,Université Cheikh Anta Diop de Dakar
+http://www.policenationale.gouv.sn/,63,27,67,73,85,Police Nationale
 https://www.ansd.sn/,63,19,79,80,74,Agence Nationale de Statistique et de la Démographie
 http://www.culture.gouv.sn/,62.75,1,86,73,91,Ministère de la Culture
+http://drs-sfd.gouv.sn/,62.5,14,83,80,73,Direction de la Réglementation et de la Supervision des Systèmes Financiers Décentralisés
 https://hopitaldantec.gouv.sn/,62.25,6,84,73,86,Hopital Dantec
 https://infos.teledac.gouv.sn,62.25,17,82,73,77,Infos Télé-Demande d'Actes administratifs
-http://drs-sfd.gouv.sn/,62.5,14,83,80,73,Direction de la Réglementation et de la Supervision des Systèmes Financiers Décentralisés
+https://www.univ-thies.sn/,62.25,16,82,67,84,Université de Thiès
+http://www.travail.gouv.sn/,62.25,12,87,73,77,Ministère du Travail
 https://www.denv.gouv.sn,61.5,23,87,67,69,Direction de l'Environnement et des Etablissements Classés
 http://creationdentreprise.sn,61.25,33,76,67,69,Bureau d'appui à la Création d'Entreprise
 https://patrimoinebati.sec.gouv.sn/,61.25,49,62,60,74,Agence de gestion du Patrimoine Bâti de l'Etat
+https://www.anacim.sn/,60.75,20,74,73,76,Agence Nationale de l'Aviation Civile et de la Météorologie (ANACIM)
 http://ept.sn/,60.5,12,86,67,77,Ecole Polytechnique de Thiès
 https://haw.gouv.sn/,60.5,13,76,67,86,Haute Autorité du WAQF
 https://www.cdp.sn/,60.5,15,80,73,74,Commission de Protection des Données Personnelles
+http://www.jeunesse.gouv.sn/,60.25,27,82,53,79,Ministère de la Jeunesse de l'Emploi et de la construction citoyenne
 https://cdc.sn/,60,16,73,80,71,Caisse des Dépôts & de Consignation du Sénégal
+http://www.decentralisation.gouv.sn/,59.25,12,76,73,76,Ministère de la Gouvernance locale
+http://www.sante.gouv.sn/,59.25,18,76,73,70,Ministère de la Santé et de L'Action Sociale
 https://budget.sec.gouv.sn,59,17,60,80,79,Direction générale du Budget
+http://www.ussein.sn/,58.5,0,77,73,84,Université du Sine Saloum El Hadji Ibrahima Niass
 http://www.fonctionpublique.gouv.sn/,58.25,5,65,73,90,Ministère de la Fonction Publique de la Rationalisation des Effectifs et du Renouveau du Service public
 https://www.groupeisi.com,57.75,18,69,73,71,Institut Supérieur d'Informatique
 http://www.douanes.sn/,56.5,5,77,73,71,Douanes sénégalaises
 https://flyairsenegal.com/,56.25,17,71,67,70,Air Sénégal
 http://www.ebad.ucad.sn/,54.25,27,61,67,62,Ecole de bibliothécaires archivistes et documentalistes
+http://www.portdakar.sn/,53,15,82,53,62,Port Autonome de Dakar
 https://www.dapsa.gouv.sn/,51,20,63,47,74,Direction de l'Analyse de la Prévision et des Statistiques Agricoles
+https://sonatel.sn/,49,15,80,47,54,Sonatel
+http://www.ugb.sn/,43.5,42,0,47,85,Université Gaston Berger de Saint-Louis
