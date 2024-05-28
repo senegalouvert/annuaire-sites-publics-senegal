@@ -5,8 +5,10 @@ Liste non exhaustive d'adresse des sites internets publics du Sénégal, merci d
 
 ## Données
 
-- [L'annuaire des sites internets publics du Sénégal](/data/annuaire.csv)
+- [L'annuaire des sites internets publics du Sénégal 🇸🇳](/data/annuaire.csv)
+- [Le Top Accessibilité 🌐 des sites publics du Sénégal 🇸🇳](/data/Accessibility/2024-05-26_09-39-40/lighthouse_scores.csv)
 - [Sites non n'hébergés au Sénégal](/data/non_senegal.csv)
+- [Sites Inaccessibles](/data/down.csv)
 
 ### Fichier csv
 
