@@ -1,3 +1,6 @@
 [submodule "scripts/testAccessibility"]
 	path = scripts/testAccessibility
 	url = https://github.com/dofbi/testAccessibility.git
+[submodule "data/Transparence"]
+	path = data/Transparence
+	url = https://github.com/senegalouvert/sources.git
