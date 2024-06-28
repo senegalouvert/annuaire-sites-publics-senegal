@@ -6,7 +6,7 @@ Agence de gestion du Patrimoine Bâti de l'Etat,https://patrimoinebati.sec.gouv.
 Agence de la Construction des Bâtiments et Edifices publics,https://www.acbep.gouv.sn/,Agence
 Agence de la Couverture Maladie Universelle,https://agencecmu.sn/,Agence
 Agence De l'Informatique de l'Etat,https://www.adie.sn/,Agence
-Agence de presse sénégalaise,https://aps.sn/,Agence
+Agence de presse sénégalaise (APS),https://aps.sn/,Agence
 Agence de Sécurité de Proximité,https://asp.gouv.sn/,Agence
 Agence National des Affaires Maritimes,https://www.anam.gouv.sn/,Agence
 Agence Nationale de Statistique et de la Démographie,https://www.ansd.sn/,Agence
@@ -26,8 +26,8 @@ Brigade Nationale des Sapeurs Pompiers,https://www.sapeurspompiers.gouv.sn/,Admi
 Bulletins de salaire en ligne,https://esolde.sec.gouv.sn/,Plate-forme
 Bureau d'appui à la Création d'Entreprise,http://creationdentreprise.sn,Administration
 Bureau d'Information Gouvernemental,https://www.big.gouv.sn/,Portail
-Bureau Opérationnel du Suivi du Plan Sénégal Emergent,https://www.senegal-emergent.com/,Administation
-Caisse des Dépôts & de Consignation du Sénégal,https://cdc.sn/,Administation
+Bureau Opérationnel du Suivi du Plan Sénégal Emergent (PSE),https://www.senegal-emergent.com/,Administration
+Caisse des Dépôts & de Consignation du Sénégal,https://cdc.sn/,Administration
 Caisse nationale de crédit agricole du Sénégal,https://www.cncas.sn/,Administration
 Carte Nationale,cartenationale.gouv.sn,Portail
 Centre de formation professionnelle et technique Sénégal - Japon,https://cfptsj.sn/,Administration
@@ -45,7 +45,7 @@ Commission électorale nationale autonome (CENA),https://www.cena.sn,Administrat
 Commission de Regulation du Secteur de l'Energie (CRSE),https://crse.sn/,Administration
 CONFPOL,portailconfpol.sec.gouv.sn,Plate-forme
 Conseil Constitutionnel,https://conseilconstitutionnel.sn/,Administration
-Conseil Economique Social et Environnemental,https://www.cesesenegal.sn/,Administration
+Conseil Economique Social et Environnemental (CESE),https://www.cesesenegal.sn/,Administration
 Conseil national de concertation et de coopération des ruraux,https://www.cncr.org/,Administration
 Cour des Comptes,http://www.courdescomptes.sn/,Administration
 Covid19 Sénégal,https://covid19.gouv.sn/,Portail
@@ -76,7 +76,7 @@ Direction des Travaux Géographiques et Cartographiques,http://dtgc.au-senegal.c
 Direction du commerce intérieur,http://WWW.dci-sn.sn/,Administration
 Direction du projet des Volontaires de l'éducation,http://www.volontaires.sn/,Administration
 Direction du Traitement Automatique de l'Information,www.dtai.finances.gouv.sn,Administration
-Direction générale de la Comptabilité publique et du Trésor,https://www.sentresor.org,Administration
+Direction générale de la Comptabilité publique et du Trésor (DGCPT),https://www.sentresor.org,Administration
 Direction Générale des Impôts et des Domaines,http://www.impotsetdomaines.gouv.sn/,Administration
 Direction générale du Budget,https://budget.sec.gouv.sn,Administration
 Douanes sénégalaises,http://www.douanes.sn/,Administration
@@ -158,7 +158,7 @@ Ministère du Travail,http://www.travail.gouv.sn/,Ministère
 Nations Unies Sénégal,https://senegal.un.org/, Organisation
 Observatoire cartographique numérique des inondations,http://www.anat.sn/OCNI,Portail
 Office du baccalauréat Sénégal,http://www.officedubac.sn,Administration
-Office National de l'Assainissement du Sénégal (onas),https://www.onas.sn/,Administration
+Office National de l'Assainissement du Sénégal (ONAS),https://www.onas.sn/,Administration
 Office National de lutte contre la Fraude et la Corruption,http://www.ofnac.sn/,Administration
 Parquet de Logiciels Académiques Normalisés pour les Etablisement et Ecoles,http://app.planete.education.gouv.sn/,Service
 Plan directeur d'urbanisme,http://www.pdudakar.gouv.sn/,Administration
@@ -184,7 +184,8 @@ Portail Mirador - Eleve-Maitre,http://www.mirador.education.gouv.sn/,Portail
 Port Autonome de Dakar,http://www.portdakar.sn/,Administration
 Poste,http://www.laposte.sn/,Administration
 Présidence de la République du Sénégal,http://www.presidence.sn/,État
-Primature,https://www.sec.gouv.sn/,Gouvernement
+Primature,https://www.sec.gouv.sn/,État
+Primature,https://primature.sn/,État
 Programme d'appui aux Initiatives de Solidarité pour le Développement,http://www.codev.gouv.sn/,Portail
 Programme d'eau potable et d'assainissement du Milénaire,http://www.pepam.gouv.sn/,Portail
 Programme de mise à niveau des entreprises du Sénégal,bmn.sec.gouv.sn,Plate-forme
@@ -200,7 +201,7 @@ Sénégal Services,https://senegalservices.sn,Service
 Senelec,http://www.senelec.sn/,Service
 SIGI CMU,sigicmu.sec.gouv.sn,Plate-forme
 Site de l'Asemblée Nnationale,http://www.assemblee-nationale.sn/,Administration
-Smart Sénégal,smartsenegal.gouv.sn,Portail
+Smart Sénégal (de Agence De l’Informatique de l’Etat),smartsenegal.gouv.sn,Portail
 Société des pétroles du Sénégal,http://www.petrosen.sn/,Administration
 Société Nationale de Recouvrement,http://www.snr.gouv.sn/,Administration
 Société Nationale des Habitations à Loyer Modéré,http://www.snhlm.sn/,État
@@ -215,10 +216,10 @@ Télé Ecole,http://tele-ecole.tv/,Plate-forme
 Université Alioune Diop de Bambey,http://www.uadb.edu.sn/,Administration
 Université Amadou Mahtar Mbow,http://www.uam.sn/,Administration
 Université Assane Seck de Ziguinchor,http://www.univ-zig.sn/,Administration
-Université Cheikh Anta Diop de Dakar,https://www.ucad.sn/,Administration
+Université Cheikh Anta Diop de Dakar (UCAD),https://www.ucad.sn/,Administration
 Université de Thiès,https://www.univ-thies.sn/,Administration
 Université du Sine Saloum El Hadji Ibrahima Niass,http://www.ussein.sn/,Administration
-Université Gaston Berger de Saint-Louis,http://www.ugb.sn/,Administration
+Université Gaston Berger de Saint-Louis (UGB),http://www.ugb.sn/,Administration
 Université numérique Cheikh Hamidou KANE(Ex UVS),https://www.unchk.sn/,Administration
 Ville de Dakar,https://villededakar.sn/,État
 Aéroport International Blaise DIAGNE (AIBD),https://aibd.sn/,État
@@ -229,7 +230,25 @@ Visualiseur Sénégal,http://www.vigeosn.gouv.sn,Portail
 Ville de Pikine,https://villedepikine.sn/,Portail
 Office National de la Formation Professionnelle (ONFP),https://www.onfp.sn/,Administration
 Agence de Développement Municipal (ADM),https://www.adm.sn/,Administration
-Agence pour la Promotion des Investissements et des Grands Travaux (APIX),https://www.investissements.gouv.sn/apix,Agences
+Agence pour la Promotion des Investissements et des Grands Travaux (APIX),https://www.investissements.gouv.sn/apix,Agence
 Conseil National de Sécurité Alimentaire (CNSA),https://www.secnsa.sn/,Administration
-Agence Nationale pour les Energies Renouvelables (ANER),https://www.aner.sn/,Agences
-Agence Nationale de l'Aviation Civile et de la Météorologie (ANACIM),https://www.anacim.sn/,Agences
+Agence Nationale pour les Energies Renouvelables (ANER),https://www.aner.sn/,Agence
+Agence Nationale de l'Aviation Civile et de la Météorologie (ANACIM),https://www.anacim.sn/,Agence
+Le Fonds de Développement du Service Universel et des Télécommunications (FDSUT),https://fdsut.sn,Agence
+Haut Conseil des collectivités territoriales (HCCT),https://hcct.sn,Administration
+SYSTÈME INTÉGRÉ DE GESTION DE L’INFORMATION FINANCIÈRE (SIGIF),http://sigif.gouv.sn/wp,Administration
+Plateforme Réforme des finances publiques du Ministère des finances et du budget,https://www.senreforme.org,Administration
+Médiature de la République,https://www.mediaturedelarepublique.sn,Administration
+Société Sénégalaise du droit d’auteur et des droits voisins (SODAV),https://www.lasodav.sn,Agence
+Initiative pour la Transparence dans les Industries Extractives (ITIE),https://www.itie.sn,État
+Contrôle Financier Sécrétariat générale de la Présidence,https://controlefinancier.sec.gouv.sn,État
+Le Centre Etudiant de l'Université Cheikh Anta Diop (UCAD),https://studentcenter.ucad.sn,Education
+Conseil National du Patronat du Sénégal (CNP),https://www.cnp.sn,Portail
+Association des bureaux de Contrôle Technique et d’Inspection Agréés du Sénégal (ACIAS),https://acias.sn,Portail
+Visitez le Sénégal par l'Agence Sénégalaise de Promotion Touristique (ASPT),https://www.visitezlesenegal.com,Agence
+Portail d’information des collectivités territoriales,https://collectivitesterritoriales.sn,Administration
+La Commission de Régulation du Secteur de l'Electricité (CRSE),https://www.crse.sn,État
+Société de Gestion des Infrastructures publiques dans les Pôles Urbains de Diamniadio et du Lac Rose (SOGIP SA),http://www.sogip.sn,Agence
+Plateforme Jubbanti Dialogue national,https://jubbanti.sec.gouv.sn/,État
+Annuaire des notaires (par le Ministère de la Justice),https://seninfogreffe.sn,Portail
+SunuBudget Programme SUNU-BUDGET pour la transparence dans la gestion des finances publiques par l'Etat,https://sunubudget.sn,Portail
