@@ -20,7 +20,7 @@ Association des Professeurs Africains de Mathématiques,http://www.apams.gouv.sn
 Autorité de Radioprotection et de Sûreté nucléaire,https://www.arsn.sn/,Administration
 Autorité de Régulation des Marchés publics,http://www.armp.sn/,Administration
 Autorité de Régulation des Télécommunications et des Postes,https://artp.sn,Administration
-Base de données géospatiales,https://www.geosenegal.gouv.sn/,Portail
+Portail national de l’infrastructure des données géospatiales du Sénégal,https://www.geosenegal.gouv.sn/,Portail
 Boîte à Outils pour les Partenariats Public-Privé,https://www.ppp.gouv.sn/,Plate-forme
 Brigade Nationale des Sapeurs Pompiers,https://www.sapeurspompiers.gouv.sn/,Administration
 Bulletins de salaire en ligne,https://esolde.sec.gouv.sn/,Plate-forme
@@ -29,7 +29,7 @@ Bureau d'Information Gouvernemental,https://www.big.gouv.sn/,Portail
 Bureau Opérationnel du Suivi du Plan Sénégal Emergent (PSE),https://www.senegal-emergent.com/,Administration
 Caisse des Dépôts & de Consignation du Sénégal,https://cdc.sn/,Administration
 Caisse nationale de crédit agricole du Sénégal,https://www.cncas.sn/,Administration
-Carte Nationale,cartenationale.gouv.sn,Portail
+Carte Nationale (topographie, géologie, plan urbain),http://cartenationale.gouv.sn,Portail
 Centre de formation professionnelle et technique Sénégal - Japon,https://cfptsj.sn/,Administration
 Centre de gestion de la qualité de l'air,http://www.air-dakar.org,Administration
 Centre des Hautes Études de Défense et de Sécurité,https://cheds.gouv.sn/,Administration
@@ -73,7 +73,7 @@ Direction des ExamensConcours Professionnels et Certifications,http://decpc.info
 Direction des Pêches maritimes,dpm.gouv.sn,Administration
 Direction des Relations avec les Institutions,http://www.dri.gouv.sn,Administration
 Direction des Travaux Géographiques et Cartographiques,http://dtgc.au-senegal.com/,Ministère
-Direction du commerce intérieur,http://WWW.dci-sn.sn/,Administration
+Direction du commerce intérieur,http://www.dci-sn.sn/,Administration
 Direction du projet des Volontaires de l'éducation,http://www.volontaires.sn/,Administration
 Direction du Traitement Automatique de l'Information,www.dtai.finances.gouv.sn,Administration
 Direction générale de la Comptabilité publique et du Trésor (DGCPT),https://www.sentresor.org,Administration
@@ -147,10 +147,10 @@ Ministère des Collectivités Territoriales du Développement et de l'Aménageme
 Ministère des Forces armées,http://www.forcesarmees.gouv.sn/,Ministère
 Ministère des Infrastructures des Transports terrestres et du Désenclavement,http://www.mittd.gouv.sn/,Ministère
 Ministère des Sports,http://www.sports.gouv.sn/,Ministère
-Ministère du Commerce du Secteur informel de la Consommation de la Promotion des produits locaux et des PME,http://www.commerce.gouv.sn/,Ministère
-Ministère du Commerce,senegalcommerce.gouv.sn,Ministère
+Ministère de l'Industrie et du Commerce ,http://www.commerce.gouv.sn/,Ministère
+Portail d'information commercialles sur le Sénégal (Ministère de l'Industrie et du Commerce),senegalcommerce.gouv.sn,Portail
 "Ministère du Développement Communautaire, de l’Equité Sociale et Territoriale",equite.gouv.sn,Ministère
-Ministère du pétrole et des énergies,http://www.energie.gouv.sn/,Ministère
+Ministère de l'énergie du pétrole et des mines,http://www.energie.gouv.sn/,Ministère
 Ministère du Renouveau urbain de l'Habitat et du Cadre de vie,http://www.habitat.gouv.sn/,Ministère
 Ministère du Tourisme et des Transports Aériens,www.mtta.gouv.sn,Ministère
 Ministère du Tourisme,http://www.tourisme.gouv.sn/,Ministère
@@ -227,7 +227,6 @@ Ville de Pikine,https://villedepikine.sn/,Portail
 Ville de Saint-Louis,https://villedesaintlouis.sn,Portail
 Ville de Rufisque,http://mairiederufisque.org/,Portail
 Visualiseur Sénégal,http://www.vigeosn.gouv.sn,Portail
-Ville de Pikine,https://villedepikine.sn/,Portail
 Office National de la Formation Professionnelle (ONFP),https://www.onfp.sn/,Administration
 Agence de Développement Municipal (ADM),https://www.adm.sn/,Administration
 Agence pour la Promotion des Investissements et des Grands Travaux (APIX),https://www.investissements.gouv.sn/apix,Agence
@@ -252,3 +251,26 @@ Société de Gestion des Infrastructures publiques dans les Pôles Urbains de Di
 Plateforme Jubbanti Dialogue national,https://jubbanti.sec.gouv.sn/,État
 Annuaire des notaires (par le Ministère de la Justice),https://seninfogreffe.sn,Portail
 SunuBudget Programme SUNU-BUDGET pour la transparence dans la gestion des finances publiques par l'Etat,https://sunubudget.sn,Portail
+Centre Régional des Œuvres Universitaires de Saint-Louis (CROUS UGB),https://crous-ugb.sn,Education
+Comité Sénégalais des Droits de l’Homme (CSDH),http://www.csdh.sn,Agence
+Comité Sénégalais des Droits de l’Homme (CSDH),https://cndh.info,Agence
+Agence sénégalaise de Promotion des Exportations (ASEPEX),https://www.asepex.sn,Agence
+Fonds d’Entretien Routier Autonome,https://www.fera.sn/,Agence
+Centre national de Qualification Professionnelle (CNQP),https://www.cnqp.org,Agence
+Ambassade du Sénégal au Japon,https://www.ambassene-tokyo.sn,Administration
+Cartographie des demandes et des titres miniers valides (Cadastre minier),https://cadastreminiersenegal.sn,Portail
+Portail SIG du PUDC (cartographie des réalisations du PUDC),https://pudc.maps.arcgis.com,Portail
+Agence nationale de la Sécurité Routière (ANASER),https://anaser.sn,Agence
+Société des Mines du Sénégal (SOMISEN),https://somisen.sn,Agence
+L'Autorité nationale d'Assurance Qualité de l'Enseignement supérieur de la Recherche et de l'Innovation (ANAQ-Sup),https://anaqsup.sn,Education
+Institut national du Pétrole et du Gaz (INPG),https://www.inpg.sn,Administration
+Cellule Nationale de Traitement des Informations Financière,https://www.centif.sn,Administration
+Vacances Agricoles du Sénégal,https://vacances-agricoles.gouv.sn,Administration
+Direction des Etudes et des Statistiques (UCAD),https://statistiques.ucad.sn,Education
+Direction de l'Informatique et des Systèmes d'Information (UCAD),https://disi.ucad.sn,Education
+Plateforme Ndamli IPRESS CSS,https://online.secusociale.sn/cssipreslanding,Administration
+Tribunal de Commerce de Dakar,https://tribunaldecommerce.sn,Administration
+Ambassade du Sénégal en Espagne,https://ambasen-es.sn,Administration
+Conseil National de Régulation de l'Audiovisuel (CNRA),https://www.cnra.sn,Agence
+Société anonyme de Télédiffusion du Sénégal (TDS-SA),https://www.tds.sn,Agence
+Direction de la Gestion et de la Planification des Ressources en Eau(DGPRE),http://www.dgpre.gouv.sn,Administration
